@@ -1,5 +1,9 @@
 # /r/steroids copypasta
 
+## How to use this?
+
+[Click `code`](https://i.ibb.co/67pjRS8y/image.png) to convert this to raw markdown which you can copy and paste!
+
 ## First Cycle Info
 
 Enjoy your pasta 🍝
